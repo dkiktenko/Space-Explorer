@@ -3,44 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Explorer", "Space Explorer\Space Explorer.csproj", "{267393F0-D027-4146-AA64-8C99B6CD63A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Explorer", "Space Explorer\Space Explorer.csproj", "{DDAB970B-8F5E-4B8E-A078-97B6C618E882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|ARM = Debug|ARM
-		Debug|ARM64 = Debug|ARM64
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|ARM = Release|ARM
-		Release|ARM64 = Release|ARM64
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|ARM.ActiveCfg = Debug|ARM
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|ARM.Build.0 = Debug|ARM
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|ARM.Deploy.0 = Debug|ARM
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|ARM64.ActiveCfg = Debug|ARM64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|ARM64.Build.0 = Debug|ARM64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|ARM64.Deploy.0 = Debug|ARM64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|x64.ActiveCfg = Debug|x64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|x64.Build.0 = Debug|x64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|x64.Deploy.0 = Debug|x64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|x86.ActiveCfg = Debug|x86
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|x86.Build.0 = Debug|x86
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Debug|x86.Deploy.0 = Debug|x86
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|ARM.ActiveCfg = Release|ARM
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|ARM.Build.0 = Release|ARM
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|ARM.Deploy.0 = Release|ARM
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|ARM64.ActiveCfg = Release|ARM64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|ARM64.Build.0 = Release|ARM64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|ARM64.Deploy.0 = Release|ARM64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|x64.ActiveCfg = Release|x64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|x64.Build.0 = Release|x64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|x64.Deploy.0 = Release|x64
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|x86.ActiveCfg = Release|x86
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|x86.Build.0 = Release|x86
-		{267393F0-D027-4146-AA64-8C99B6CD63A8}.Release|x86.Deploy.0 = Release|x86
+		{DDAB970B-8F5E-4B8E-A078-97B6C618E882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAB970B-8F5E-4B8E-A078-97B6C618E882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAB970B-8F5E-4B8E-A078-97B6C618E882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAB970B-8F5E-4B8E-A078-97B6C618E882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
